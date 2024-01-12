@@ -1,0 +1,18 @@
+.container{
+    height: 300px;
+    width: 100%;
+    border: 2px solid black;
+}
+.box{
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid red;
+    background-color: aqua;
+    border-radius: 5px;
+    margin: 22px;
+    margin-top: 90px;
+    text-align: center;
+
+}

@@ -1,0 +1,30 @@
+.container{
+    height: 150px;
+    border: 2px solid rgb(1, 1, 14);
+    display: flex;
+}
+.circle{
+    margin: 30px;
+    text-align: center;
+    border: 2px solid black;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    background-color:palegreen;
+    line-height: 50px;
+}
+.deleteCircle{
+    background-color:rgb(237, 142, 218);
+    margin: 30px;
+    text-align: center;
+    border: 2px solid black;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    line-height: 90px;
+    display: inline-block;
+
+}
+/* #deleteData{
+    margin-top: 20px;
+} */

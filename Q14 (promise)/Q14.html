@@ -1,0 +1,26 @@
+<html>
+<head>
+    <title>Promise Example</title>
+</head>
+<body>
+    <script>
+        var passexam = true;
+
+        var a = new Promise(function (resolve, reject)
+         {
+            setTimeout(() => 
+            {
+                if (passexam) 
+                {
+                    resolve("Dad gifted the new mobile.");
+                }
+                else
+                {
+                    reject("Dad has not gifted the mobile.");
+                }
+            }, 1000);
+        });
+        console.log(a);
+    </script>
+</body>
+</html>
