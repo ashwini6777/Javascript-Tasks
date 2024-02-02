@@ -1,0 +1,28 @@
+body
+{
+    background-color: black;
+}
+
+
+#inputbox{
+    height: 30px;
+    width: 300px;
+    border: 2px solid purple;
+    font-weight: bold;
+}
+#outputbox{
+    height: 170px;
+    width: 500px;
+    color: aliceblue;
+    border: 2px solid purple;
+    border-radius: 7px;
+    font-weight: bold;
+
+}
+button{
+    height: 30px;
+    width: 90px;
+    font-weight: bold;
+}
+
+

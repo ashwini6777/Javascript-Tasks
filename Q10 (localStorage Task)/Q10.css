@@ -1,0 +1,28 @@
+body{
+  background-color:black;
+}
+
+  
+  #inputbox {
+    padding: 5px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left:650px ;
+    font-size: 14px;
+    border: 2px solid purple;
+  }
+  #outputbox{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+  }
+  button{
+    height: 30px;
+    width: 80px;
+    font-weight: bold;
+    /* color: white; */
+    border: 2px solid purple;
+  }
+  
+  

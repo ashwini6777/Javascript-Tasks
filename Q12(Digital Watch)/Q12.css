@@ -1,15 +1,16 @@
-  .clock {  
+  .clock-container {  
     position: absolute;  
-    top: 40%;  
-    left: 38%;  
+    margin-left: 100px;
     padding-top: 15px;  
-    color: #daf6ff;  
+    color:white;  
     font-size: 60px;  
     font-family:'Orbitron',sans-serif ;  
     letter-spacing: 7px; 
-    text-shadow: 0 0 20px rgba(15, 175,230, 1),0 0 20px rgb(15, 175, 230,1);
+    border: 2px solid black;
+    text-align: center;
+    /* text-shadow: 0 0 20px rgba(15, 175,230, 1),0 0 20px rgb(15, 175, 230,1); */
 
 }  
 body{
-  background-color: #000000;
+  background-color: black;
 }
